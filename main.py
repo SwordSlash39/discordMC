@@ -50,7 +50,7 @@ token = '---'
 default_call = history.default_call
 txt = ''
 msg = ''
-auth = ['603569154171207701', '611513933710229504']
+auth = []
 daytime = [True, 1595840752.1231422]
 explore_delay = 10
 
